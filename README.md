@@ -1,5 +1,4 @@
-### Hi there 👋
-
+<img src="./assets/type-title.gif" width="400">
 <!--
 **claytercek/claytercek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
