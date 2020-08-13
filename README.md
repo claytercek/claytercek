@@ -1,4 +1,4 @@
-<img src="https://github.com/claytercek/claytercek/raw/master/assets/type-title.gif" width="400" alt="> Clay Tercek">
+<img src="https://github.com/claytercek/claytercek/raw/master/assets/type-title.gif" width="500" alt="> Clay Tercek">
 <!--
 **claytercek/claytercek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
