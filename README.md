@@ -1,15 +1,14 @@
-<img src="https://github.com/claytercek/claytercek/raw/master/assets/type-title.gif" width="500" alt="> Clay Tercek">
-<!--
-**claytercek/claytercek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github.com/claytercek/claytercek/raw/master/assets/type-title.gif" width="600" alt="> Clay Tercek">
 
-Here are some ideas to get you started:
+Check out my [portfolio](https://cly.li).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <img src="https://img.icons8.com/dusk/40/000000/react.png" alt="react"/> 
+  <img src="https://img.icons8.com/dusk/40/000000/svetle.png" alt="svelte"/> 
+  <img src="https://img.icons8.com/dusk/40/000000/javascript.png" alt="javascript"/> 
+  <img src="https://img.icons8.com/dusk/40/000000/php-logo.png" alt="php"/> 
+  <img src="https://img.icons8.com/dusk/40/000000/python.png" alt="python"/> 
+  <img src="https://img.icons8.com/dusk/40/000000/html-5.png" alt="html5"/> 
+  <img src="https://img.icons8.com/dusk/40/000000/swift.png" alt="swift"/> 
+</p>
+
