@@ -1,4 +1,4 @@
-<img src="https://github.com/claytercek/claytercek/raw/master/assets/type-title.gif" width="600" alt="> Clay Tercek">
+![> Clay Tercek](./assets/name_anim.svg)
 
 Check out my [portfolio](https://cly.li).
 
